@@ -28,14 +28,3 @@ Web Dev       █████████░░░░░░░░░░
 Git & GitHub  ████████████░░░░░░░
 Linux         ████████░░░░░░░░░░░
 Cybersecurity ██████░░░░░░░░░░░░░
-```
-
----
-
-## 📊 GitHub Contributions
-
-<div align="center">
-
-![Animated GitHub Contributions](./contrib-heatmap.gif)
-
-</div>
