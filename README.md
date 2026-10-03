@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-art.png" width="850">
+<img src="./assets/profile-art.png" width="500">
 
 <br>
 
-<img src="./assets/profile-info.svg" width="850">
+<img src="./assets/profile-info.svg" width="500">
 
 <br><br>
 
